@@ -1,1 +1,2 @@
 # Project_30
+My project is a school website.There is a Home page and Contact us page.In the home page you will have the choice to register and log in.Once registered you can log in.Once logged in, you will be in the student's page where you can calculate you're gpa or use the to do list.
